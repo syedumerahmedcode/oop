@@ -1,10 +1,10 @@
 package com.umer.oop.abstraction;
 
-abstract class Animal {
+public abstract class Animal {
 	
 	// abstract methods
-	abstract void move();
-	abstract void eat();
+	public abstract void move();
+	public abstract void eat();
 	
 	// concrete method
 	void label() {
