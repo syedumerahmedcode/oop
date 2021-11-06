@@ -7,7 +7,7 @@ public abstract class Animal {
 	public abstract void eat();
 	
 	// concrete method
-	void label() {
+	public void label() {
 		System.out.println("Animal's data: ");
 	}
 
