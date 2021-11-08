@@ -10,4 +10,11 @@ public class CoffeeMachine {
 		this.brewer=new Brewer();
 	}
 
+
+	public void prepareCoffee() {
+		System.out.println("Initializing steps for preparing coffee:");
+		this.grinder.grind();
+		this.brewer.brew();
+	}
+
 }
