@@ -78,6 +78,8 @@ Bird testBird=new Bird();
 
 ## Explanation Inheritance
 
+Inheritance demonstrates parent child relationship and uses _entends_ keyword. Inheritance makes it possible to create a child class that inherits the fields and methods of the parent class. The _Bird_ class contains variables and two methods: _flyingUp()_ and _flyingDown()_ whereas in derived class contains additional variables. In the main method, we are creating an _Eagle_ class object but due to inheritance, we can call _flyingUp()_ and _flyingDown()_ methods.
+
 ## Explanation Association
 
 ## Explanation Aggregation
