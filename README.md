@@ -23,7 +23,11 @@
 
 The main of this project is to explain the core concepts of Object Oriented Programming(OOP) along with a code example such that the reader can follow along and understand each concept with a simple example.
 
+The project is organized across topics based packages. Each package has a sub-package called _usage_ in which the classes are instantiated and called in the main method. 
+
 ## Out Of Scope
+
+Since the core purpose of this project is to understand the coding part, tests are out of scope for this project.
 
 ## Explanation OOP
 
