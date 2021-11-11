@@ -46,6 +46,16 @@ Other concepts explored in this project are:
 
 ## Explanation Abstraction
 
+Abstraction allows us to write a mixture of abstract and concrete methods in a class which are implemented in a derived class. One can have abstract methods which specify some general action which are later implemented in sub-classes. 
+
+For example, Animal is an abstract class as it has _move()_ and _eat()_ abstract methods. These are implemented in _Bird_ and _Fish_ classes and then used in the main method by initialization as follows.
+
+```java
+
+Animal myBird = new Bird();
+
+```
+
 ## Explanation Encapsulation
 
 Encapsulation allows information hiding, which means it prevents the internal variables of the class from system wide access.
