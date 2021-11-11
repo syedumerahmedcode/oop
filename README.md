@@ -21,6 +21,8 @@
 
 ## Introduction
 
+The main of this project is to explain the core concepts of Object Oriented Programming(OOP) along with a code example such that the reader can follow along and understand each concept with a simple example.
+
 ## Out Of Scope
 
 ## Explanation OOP
