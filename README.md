@@ -54,6 +54,28 @@ In the project, we have an Animal class and it is used in main() method in which
 
 ## Explanation Polymorphism
 
+Polymorphism means many forms and in terms of OOP, it means to perform a certain action in different ways. The two ways of polymorphism explored in this project are _static polymorphism_ and _dynamic polymorphism_.
+
+**static polymorphism:** This is also known as method overloading meaning methods exists which have the same name but different number of parameters. In our case, _fly()_ method is overloaded in _Bird_ class and in the usage package, various methods of _fly()_ are called in the main method.
+
+**dynamic polymorphism:** This is also known as method overriding meaning that the derived class overrides the method of the base class. In the Animal(base) class, _eat()_ method is present which is overridden in Bird(derived) class. In the main method, _eat()_ method is first called from _Animal_ class
+
+```java
+
+Animal testAnimal=new Animal();
+		testAnimal.eat();
+		
+```
+
+and then later from the _Bird_ class.
+
+```java
+
+Bird testBird=new Bird();
+		testBird.eat();
+		
+```
+
 ## Explanation Inheritance
 
 ## Explanation Association
