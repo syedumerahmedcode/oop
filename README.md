@@ -61,6 +61,7 @@ Feature requests, issues, pull requests and questions are welcome.
 - [2](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition): What is the difference between association, aggregation and composition? **(Stack Overflow)** 
 - [3](https://stackify.com/oop-concepts-composition/): OOP Concepts for Beginners: What is Composition?
 - [4](https://www.baeldung.com/java-composition-aggregation-association): Composition, Aggregation, and Association in Java
+- [5](https://www.scientecheasy.com/2021/03/aggregation-in-java.html/): Aggregation in Java OOPs | Example Program
 
 ## Contact Information
 
