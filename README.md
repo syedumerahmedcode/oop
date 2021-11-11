@@ -48,6 +48,10 @@ Other concepts explored in this project are:
 
 ## Explanation Encapsulation
 
+Encapsulation allows information hiding, which means it prevents the internal variables of the class from system wide access.
+
+In the project, we have an Animal class and it is used in main() method in which both getters and setters are called. One practical use case could be that a class only provides getters which delivers results based on internal logic of other sub classes but not setters.
+
 ## Explanation Polymorphism
 
 ## Explanation Inheritance
