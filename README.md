@@ -31,6 +31,19 @@ Since the core purpose of this project is to understand the coding part, tests a
 
 ## Explanation OOP
 
+OOP languages are built around the concept of objects. OOP improves code readability and reusability. The core concepts are:
+
+- Encapsulation,
+- Inheritance, and 
+- Polymorphism.
+
+Other concepts explored in this project are:
+
+- Abstraction
+- Association
+- Aggregation, and
+- Composition.
+
 ## Explanation Abstraction
 
 ## Explanation Encapsulation
