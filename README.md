@@ -92,6 +92,8 @@ Inheritance demonstrates parent child relationship and uses _entends_ keyword. I
 
 ## Explanation Association
 
+Association means that the objects of different classes know about one another but It has no “has-a” relationship meaning  none of the objects are parts or members of another.
+
 ## Explanation Aggregation
 
 ## Explanation Composition
