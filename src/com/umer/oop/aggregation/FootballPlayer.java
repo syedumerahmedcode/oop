@@ -27,6 +27,11 @@ public class FootballPlayer {
 		this.football = football;
 	}
 	
+	public void plays() {
+		System.out.println("Player " +this.getName() + " plays with " +this.getFootball().getType());
+		
+	}
+	
 	
 	
 	
