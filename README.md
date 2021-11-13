@@ -92,11 +92,15 @@ Inheritance demonstrates parent child relationship and uses _entends_ keyword. I
 
 ## Explanation Association
 
-Association means that the objects of different classes know about one another but It has no “has-a” relationship meaning  none of the objects are parts or members of another.
+Association means that the objects of different classes know about one another but it has no “has-a” relationship meaning none of the objects are parts or members of another.
 
 ## Explanation Aggregation
 
+Aggregation is a type of association and it is a more specialized form of uni-directional association but both can exist independently. In our example, we have _Football_ class and _FootbalPlayer_ class which has a reference to Football class with which he plays. However, even if the FootbalPlayer dies, the Football object can still exist on its own.
+
 ## Explanation Composition
+
+
 
 ## Technologies Used
 
