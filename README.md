@@ -100,7 +100,7 @@ Aggregation is a type of association and it is a more specialized form of uni-di
 
 ## Explanation Composition
 
-
+Composition is also a type of association but here the owned class cannot exist without the owner class. In our example, both _Brewer_ and _Grinder_ classes only make sense within the coffee machine and they cease to exist once the coffee machine is gone. Similarly, a _Room_ only makes sense inside a _Building_ and if the Building is demolished, the Rooms will also disappear as well.  
 
 ## Technologies Used
 
